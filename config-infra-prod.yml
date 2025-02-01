@@ -17,6 +17,7 @@ variables:
   ado_service_connection_rg: Azure-ARM-Prod
   ado_service_connection_aml_ws: Azure-ARM-Prod
 
+# Trigger the run
   # For pipeline reference
   resource_group: "glmsftai-subri"
   aml_workspace: "b747ee09-a6bb-42d4-a775-5c4150b98e67"
