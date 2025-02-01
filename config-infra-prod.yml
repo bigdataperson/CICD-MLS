@@ -18,5 +18,5 @@ variables:
   ado_service_connection_aml_ws: Azure-ARM-Prod
 
   # For pipeline reference
-  resource_group: <enter-your-resource-group-name>
-  aml_workspace: <enter-your-aml-workspace-name>
+  resource_group: "glmsftai-subri"
+  aml_workspace: "b747ee09-a6bb-42d4-a775-5c4150b98e67"
